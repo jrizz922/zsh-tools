@@ -1,0 +1,3 @@
+project.txt
+
+This project is for working with the Copilot extension in Nova 10.6.
